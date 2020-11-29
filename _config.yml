@@ -4,14 +4,14 @@ SEOTitle: moyu的博客 | BY liule
 header-img: img/post-bg-desk.jpg
 email: moyu3585@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, moyu的博客, moyu, 墨鱼, iOS, Apple, iPhone"
+keyword: "自知的咸鱼"
 url: "http://moyu3585.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "试试有木有ok!"
+sidebar-about-description: "Set your course by the stars, not by the lights of every passing ship!"
 sidebar-avatar: /img/about-BY-m      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
